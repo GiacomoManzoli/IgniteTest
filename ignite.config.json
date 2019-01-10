@@ -1,14 +1,14 @@
 {
-    "libs": [
+    "Libs": [
         {
-            "name": "Library1",
-            "downloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library1.lbs?raw=true",
-            "verison": "1.0.0"
+            "Name": "Library1",
+            "DownloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library1.lbs?raw=true",
+            "Verison": "1.0.0"
         },
         {
-            "name": "Library2",
-            "downloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library2.lbs?raw=true",
-            "verison": "1.0.0"
+            "Name": "Library2",
+            "DownloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library2.lbs?raw=true",
+            "Verison": "1.0.0"
         }
     ]
 }
