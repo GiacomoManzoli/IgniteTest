@@ -1,0 +1,14 @@
+{
+    "libs": [
+        {
+            "name": "Library1",
+            "downloadUrl": "",
+            "verison": "1.0.0"
+        },
+        {
+            "name": "Library2",
+            "downloadUrl": "",
+            "verison": "1.0.0"
+        }
+    ]
+}
