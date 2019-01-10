@@ -2,12 +2,12 @@
     "libs": [
         {
             "name": "Library1",
-            "downloadUrl": "",
+            "downloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library1.lbs?raw=true",
             "verison": "1.0.0"
         },
         {
             "name": "Library2",
-            "downloadUrl": "",
+            "downloadUrl": "https://github.com/GiacomoManzoli/IgniteTest/blob/master/Library2.lbs?raw=true",
             "verison": "1.0.0"
         }
     ]
